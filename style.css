@@ -1087,10 +1087,10 @@ nav {
     z-index: 9999;
 
     background: rgba(8, 8, 8, 0.75);
-    backdrop-filter: blur(14px);
+    backdrop-filter: blur(5px);
     -webkit-backdrop-filter: blur(14px);
 
-    padding: 12px 10%;
+    padding: 0px 10%;
     margin: 0 -10%;
 
     border-bottom: 1px solid rgba(255, 255, 255, 0.08);
