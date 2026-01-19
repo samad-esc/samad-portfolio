@@ -143,7 +143,7 @@ nav ul li a:hover::after {
 #about p {
     font-size: 17px;
     line-height: 1.9;
-    color: #d1d1d1;
+    color: #ece6e6;
     max-width: 90%;
 }
 
@@ -434,7 +434,7 @@ nav ul li a:hover::after {
 
 .related-content p {
     font-size: 15px;
-    color: #d1d1d1;
+    color: #efeaea;
     line-height: 1.6;
     margin-bottom: 10px;
 }
@@ -599,7 +599,7 @@ nav ul li a:hover::after {
 
 .project-content p {
     font-size: 14.5px;
-    color: #d1d1d1;
+    color: #e4dcdc;
     margin-bottom: 8px;
 }
 
